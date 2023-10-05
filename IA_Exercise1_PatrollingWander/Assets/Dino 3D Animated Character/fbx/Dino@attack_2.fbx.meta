@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: a2f8900e487352e4c906743b51b5439b
+timeCreated: 1467569037
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arm_L_1
+    100002: arm_L_2
+    100004: arm_R_1
+    100006: arm_R_2
+    100008: body
+    100010: chest
+    100012: cloth_front_1
+    100014: cloth_front_2
+    100016: cloth_L_1
+    100018: cloth_L_2
+    100020: cloth_R_1
+    100022: cloth_R_2
+    100024: //RootNode
+    100026: fingers_L_10
+    100028: fingers_L_11
+    100030: fingers_L_12
+    100032: fingers_L_13
+    100034: fingers_L_14
+    100036: fingers_L_8
+    100038: fingers_L_9
+    100040: fingers_R_10
+    100042: fingers_R_11
+    100044: fingers_R_12
+    100046: fingers_R_13
+    100048: fingers_R_14
+    100050: fingers_R_8
+    100052: fingers_R_9
+    100054: hand_L
+    100056: hand_L_ctrl
+    100058: hand_R
+    100060: hand_R_ctrl
+    100062: head
+    100064: leg_L_1
+    100066: leg_L_2
+    100068: leg_L_3
+    100070: leg_R_1
+    100072: leg_R_2
+    100074: leg_R_3
+    100076: naplechnik
+    100078: new_model
+    100080: palka
+    100082: root
+    100084: shoulder_L
+    100086: shoulder_R
+    100088: tail
+    400000: arm_L_1
+    400002: arm_L_2
+    400004: arm_R_1
+    400006: arm_R_2
+    400008: body
+    400010: chest
+    400012: cloth_front_1
+    400014: cloth_front_2
+    400016: cloth_L_1
+    400018: cloth_L_2
+    400020: cloth_R_1
+    400022: cloth_R_2
+    400024: //RootNode
+    400026: fingers_L_10
+    400028: fingers_L_11
+    400030: fingers_L_12
+    400032: fingers_L_13
+    400034: fingers_L_14
+    400036: fingers_L_8
+    400038: fingers_L_9
+    400040: fingers_R_10
+    400042: fingers_R_11
+    400044: fingers_R_12
+    400046: fingers_R_13
+    400048: fingers_R_14
+    400050: fingers_R_8
+    400052: fingers_R_9
+    400054: hand_L
+    400056: hand_L_ctrl
+    400058: hand_R
+    400060: hand_R_ctrl
+    400062: head
+    400064: leg_L_1
+    400066: leg_L_2
+    400068: leg_L_3
+    400070: leg_R_1
+    400072: leg_R_2
+    400074: leg_R_3
+    400076: naplechnik
+    400078: new_model
+    400080: palka
+    400082: root
+    400084: shoulder_L
+    400086: shoulder_R
+    400088: tail
+    4300000: new_model
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: new_model
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
