@@ -21,10 +21,10 @@ public class NavMeshPatrol : MonoBehaviour
         agent.autoBraking = false;
 
         // Random initial start point:
-        destPoint = Random.Range(0, points.Length - 1);
+        //destPoint = Random.Range(0, points.Length - 1);
 
         // To unrandomize and start from the first point:
-        //GotoNextPoint();
+        GotoNextPoint();
     }
 
     void GotoNextPoint()

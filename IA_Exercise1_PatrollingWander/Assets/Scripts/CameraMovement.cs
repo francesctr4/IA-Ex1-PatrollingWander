@@ -38,7 +38,7 @@ public class CameraMovement : MonoBehaviour
             if (currentWaypoint >= waypoints.Length)
             {
                 // Uncomment to loop the camera positions
-                //currentWaypoint = 0; // Wrap around to the first waypoint
+                currentWaypoint = 0; // Wrap around to the first waypoint
             }
 
             TeleportToWaypoint(currentWaypoint);
